@@ -1,0 +1,5 @@
+torch
+rasterio
+matplotlib
+numpy
+scikit-learn
