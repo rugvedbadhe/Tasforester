@@ -24,4 +24,4 @@
 Open source for academic and non-commercial use.
 
 ## 📬 Contact
-For questions, please contact [your_email@example.com]
+For questions, please contact [rugvednivrutti.badhe@student.uts.edu] and [Anjali.k.ledade@student.uts.edu.au]
